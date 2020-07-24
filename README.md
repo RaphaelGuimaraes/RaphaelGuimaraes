@@ -4,7 +4,7 @@
 
 
 ## Hello World 👋
-I'm Raphael Guimarães, on this present moment I'm a development coordinator, passionate about frontend technologies, open source, agility, soccer & beer :beers: #cheers 
+I'm Raphael Guimarães, on this present moment I'm a development coordinator, that loves to work with challenging and creative projects, passionate by frontend technologies, open source, agility, soccer & beer :beers: #cheers 
 
 <!--
 **RaphaelGuimaraes/RaphaelGuimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
